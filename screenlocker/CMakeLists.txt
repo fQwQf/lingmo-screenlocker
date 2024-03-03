@@ -11,11 +11,11 @@ set(PROJECT_SOURCES
     qml.qrc
 )
 
-add_executable(cute-screenlocker
+add_executable(lingmo-screenlocker
     ${PROJECT_SOURCES}
 )
 
-target_link_libraries(cute-screenlocker
+target_link_libraries(lingmo-screenlocker
     PRIVATE
     Qt5::Core
     Qt5::DBus
@@ -26,4 +26,4 @@ target_link_libraries(cute-screenlocker
     ${X11_LIBRARIES}
 )
 
-install(TARGETS cute-screenlocker RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR})
+install(TARGETS lingmo-screenlocker RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR})

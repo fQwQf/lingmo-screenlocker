@@ -1,4 +1,4 @@
-Source: cute-screenlocker
+Source: lingmo-screenlocker
 Section: devel
 Priority: optional
 Maintainer: CuteOS <support@cuteos.com>
@@ -16,7 +16,7 @@ Build-Depends: cmake,
 Standards-Version: 4.5.0
 Homepage: https://cuteos.com
 
-Package: cute-screenlocker
+Package: lingmo-screenlocker
 Architecture: any
 Depends: qml-module-qtquick-controls2,
          qml-module-qtquick2,
