@@ -90,6 +90,6 @@ foreach(filepath ${TS_FILES})
 endforeach()
 qt5_create_translation(QM_FILES ${CMAKE_CURRENT_SOURCE_DIR} ${ts_files_replaced})
 add_custom_target(translations DEPENDS ${QM_FILES} SOURCES ${ts_files_replaced})
-add_dependencies(cute-screenlocker translations)
-install(FILES ${QM_FILES} DESTINATION /usr/share/cute-screenlocker/translations)
+add_dependencies(lingmo-screenlocker translations)
+install(FILES ${QM_FILES} DESTINATION /usr/share/lingmo-screenlocker/translations)
 
