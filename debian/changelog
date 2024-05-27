@@ -1,3 +1,9 @@
+lingmo-screenlocker (2.0.0~a1) UNRELEASED; urgency=high
+
+  * Fix name error
+
+ -- Elysia <c.elysia@foxmail.com>  Mon, 27 May 2024 15:06:52 +0800
+
 lingmo-screenlocker (1.9.9) UNRELEASED; urgency=high
 
   * Initial release (CuteOS)  <support@cuteos.com>

@@ -26,7 +26,7 @@ int main(int argc, char *argv[])
 {
     Application app(argc, argv);
 
-    if (!QDBusConnection::sessionBus().registerService("com.cute.ScreenLocker")) {
+    if (!QDBusConnection::sessionBus().registerService("com.lingmo.ScreenLocker")) {
         return -1;
     }
 
