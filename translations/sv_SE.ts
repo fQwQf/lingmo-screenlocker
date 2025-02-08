@@ -13,12 +13,11 @@
         <translation type="vanished">Lås upp</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
-        <translation>Vänligen ange ditt lösenord</translation>
+        <translation type="vanished">Vänligen ange ditt lösenord</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
         <source>Unlocking failed</source>
         <translation>Upplåsning misslyckades</translation>
     </message>

@@ -13,12 +13,11 @@
         <translation type="vanished">בטל נעילה</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
-        <translation>הקש סיסמה</translation>
+        <translation type="vanished">הקש סיסמה</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
         <source>Unlocking failed</source>
         <translation>ההתחברות נכשלה</translation>
     </message>

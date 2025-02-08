@@ -13,12 +13,11 @@
         <translation type="vanished">Buka Kunci</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
-        <translation>Mohon Masukan Password Anda</translation>
+        <translation type="vanished">Mohon Masukan Password Anda</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
         <source>Unlocking failed</source>
         <translation>Gagal Membuka Kunci</translation>
     </message>

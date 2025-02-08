@@ -13,12 +13,11 @@
         <translation type="vanished">আনলক করুন</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
-        <translation>আপনার পাসওয়ার্ড দিন</translation>
+        <translation type="vanished">আপনার পাসওয়ার্ড দিন</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
         <source>Unlocking failed</source>
         <translation>আনলক করা যায়নি</translation>
     </message>

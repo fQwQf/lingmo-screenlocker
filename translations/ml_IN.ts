@@ -13,12 +13,11 @@
         <translation type="vanished">അൺലോക്ക്</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
-        <translation>നിങ്ങളുടെ പാസ്സ്‌വേർഡ് ടൈപ്പ് ചെയ്യുക</translation>
+        <translation type="vanished">നിങ്ങളുടെ പാസ്സ്‌വേർഡ് ടൈപ്പ് ചെയ്യുക</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
         <source>Unlocking failed</source>
         <translation>അൺലോക്ക് ചെയ്യാൻ കഴിഞ്ഞില്ല</translation>
     </message>

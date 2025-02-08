@@ -13,12 +13,11 @@
         <translation type="vanished">Atrakinti</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
-        <translation>Įveskite slaptažodį</translation>
+        <translation type="vanished">Įveskite slaptažodį</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
         <source>Unlocking failed</source>
         <translation>Nepavyko atrakinti</translation>
     </message>

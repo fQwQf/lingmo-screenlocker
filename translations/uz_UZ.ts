@@ -13,12 +13,11 @@
         <translation type="vanished">Ochish</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
-        <translation>Iltimos, parolni kiriting</translation>
+        <translation type="vanished">Iltimos, parolni kiriting</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
         <source>Unlocking failed</source>
         <translation>Qulifni ochishda xatolik</translation>
     </message>

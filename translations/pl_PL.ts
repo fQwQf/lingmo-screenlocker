@@ -13,12 +13,11 @@
         <translation type="vanished">Odblokuj</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
-        <translation>Proszę wprowadzić hasło</translation>
+        <translation type="vanished">Proszę wprowadzić hasło</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
         <source>Unlocking failed</source>
         <translation>Odblokowanie nieudane</translation>
     </message>

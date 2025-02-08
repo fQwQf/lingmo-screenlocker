@@ -13,12 +13,11 @@
         <translation type="vanished">Отключване</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
-        <translation>Моля, въведете вашата парола</translation>
+        <translation type="vanished">Моля, въведете вашата парола</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
         <source>Unlocking failed</source>
         <translation>Възникна грешка при откючване</translation>
     </message>

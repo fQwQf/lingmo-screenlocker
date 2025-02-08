@@ -13,12 +13,11 @@
         <translation type="vanished">Fungua</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
-        <translation>Tafadhali ingiza neno la siri</translation>
+        <translation type="vanished">Tafadhali ingiza neno la siri</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
         <source>Unlocking failed</source>
         <translation type="unfinished">Kufunguliwa limeshindwa</translation>
     </message>

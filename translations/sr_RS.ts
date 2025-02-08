@@ -13,12 +13,11 @@
         <translation type="vanished">Otključaj</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
-        <translation>Unesite šifru</translation>
+        <translation type="vanished">Unesite šifru</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
         <source>Unlocking failed</source>
         <translation>Otključavanje nije uspelo</translation>
     </message>

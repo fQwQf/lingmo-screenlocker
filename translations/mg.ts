@@ -13,12 +13,11 @@
         <translation type="vanished">Sokafana</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
-        <translation>Ampidiro ny teny miafinao azafady</translation>
+        <translation type="vanished">Ampidiro ny teny miafinao azafady</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
         <source>Unlocking failed</source>
         <translation>Misy tsy fihetezana ny fanokafana</translation>
     </message>

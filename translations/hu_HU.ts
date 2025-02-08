@@ -13,12 +13,11 @@
         <translation type="vanished">Feloldás</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
-        <translation>Kérjük adja meg a jelszavát</translation>
+        <translation type="vanished">Kérjük adja meg a jelszavát</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
         <source>Unlocking failed</source>
         <translation>A feloldás sikertelen</translation>
     </message>

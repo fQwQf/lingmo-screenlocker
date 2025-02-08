@@ -13,12 +13,11 @@
         <translation type="vanished">ورود</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
-        <translation>لطفا رمز خود را وارد کنید</translation>
+        <translation type="vanished">لطفا رمز خود را وارد کنید</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
         <source>Unlocking failed</source>
         <translation>خطا در ورود</translation>
     </message>

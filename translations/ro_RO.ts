@@ -13,12 +13,11 @@
         <translation type="vanished">Deblochează</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
-        <translation>Introduceți parola dumneavoastră</translation>
+        <translation type="vanished">Introduceți parola dumneavoastră</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
         <source>Unlocking failed</source>
         <translation>Deblocarea nu a reușit</translation>
     </message>

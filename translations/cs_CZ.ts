@@ -13,12 +13,11 @@
         <translation type="vanished">Odemknout</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
-        <translation>Zadejte své heslo</translation>
+        <translation type="vanished">Zadejte své heslo</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
         <source>Unlocking failed</source>
         <translation>Odemykání se nezdařilo</translation>
     </message>

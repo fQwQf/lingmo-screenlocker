@@ -13,12 +13,11 @@
         <translation type="vanished">Ontgrendel</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
-        <translation>Voer je wachtwoord in</translation>
+        <translation type="vanished">Voer je wachtwoord in</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
         <source>Unlocking failed</source>
         <translation>Het ontgrendelen is mislukt</translation>
     </message>

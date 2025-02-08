@@ -13,12 +13,11 @@
         <translation type="vanished">إلغاء القُفْل</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
-        <translation>يُرجى إدخال كلمة المرور</translation>
+        <translation type="vanished">يُرجى إدخال كلمة المرور</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
         <source>Unlocking failed</source>
         <translation>فَشِل إلغاء القُفْل</translation>
     </message>

@@ -13,12 +13,11 @@
         <translation type="vanished">ロックを解除</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
-        <translation>パスワードを入力してください</translation>
+        <translation type="vanished">パスワードを入力してください</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
         <source>Unlocking failed</source>
         <translation>ロックの解除に失敗しました</translation>
     </message>

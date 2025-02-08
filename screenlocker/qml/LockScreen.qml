@@ -2,6 +2,9 @@
  * Copyright (C) 2021 CuteOS Team.
  *
  * Author:     Rion Wong <reionwong@gmail.com>
+ *             kylinos@kylinsec.com.cn
+ * Copyright (C) 2025 fQwQf <fQwQf6outlook.com>
+ *
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -328,11 +331,12 @@ Item {
     }
 
     function tryUnlock() {
-        if (!password.text) {
+        //Well it's possible that the password is empty
+        /*if (!password.text) {
             notificationResetTimer.start()
             root.notification = qsTr("Please enter your password")
             return
-        }
+        }*/
 
         authenticator.tryUnlock(password.text)
     }

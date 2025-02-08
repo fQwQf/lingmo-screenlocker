@@ -13,12 +13,11 @@
         <translation type="vanished">開鎖</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
-        <translation>請輸入您的密碼</translation>
+        <translation type="vanished">請輸入您的密碼</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
         <source>Unlocking failed</source>
         <translation>解鎖失敗</translation>
     </message>

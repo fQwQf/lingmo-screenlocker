@@ -13,12 +13,11 @@
         <translation type="vanished">Kilidi kaldır</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="333"/>
         <source>Please enter your password</source>
-        <translation>Lütfen şifrenizi girin</translation>
+        <translation type="vanished">Lütfen şifrenizi girin</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="351"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
         <source>Unlocking failed</source>
         <translation>Giriş başarısız oldu</translation>
     </message>
