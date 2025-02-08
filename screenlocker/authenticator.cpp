@@ -250,7 +250,10 @@ void KCheckPass::handleVerify()
             }
 
             if (m_password.isNull()) {
-                GSendStr(nullptr);
+                //GSendStr("");
+                QByteArray utf8pass;
+                GSendStr(utf8pass.constData());
+                GSendInt(IsPassword);
             } else {
                 QByteArray utf8pass = m_password.toUtf8();
                 GSendStr(utf8pass.constData());

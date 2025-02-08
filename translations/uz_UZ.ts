@@ -4,7 +4,7 @@
 <context>
     <name>LockScreen</name>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="231"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="234"/>
         <source>Password</source>
         <translation>Parol</translation>
     </message>
@@ -17,7 +17,7 @@
         <translation type="vanished">Iltimos, parolni kiriting</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="355"/>
         <source>Unlocking failed</source>
         <translation>Qulifni ochishda xatolik</translation>
     </message>

@@ -4,7 +4,7 @@
 <context>
     <name>LockScreen</name>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="231"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="234"/>
         <source>Password</source>
         <translation>密碼</translation>
     </message>
@@ -17,7 +17,7 @@
         <translation type="vanished">請輸入您的密碼</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="355"/>
         <source>Unlocking failed</source>
         <translation>解鎖失敗</translation>
     </message>

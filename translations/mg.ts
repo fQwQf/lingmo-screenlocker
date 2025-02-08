@@ -4,7 +4,7 @@
 <context>
     <name>LockScreen</name>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="231"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="234"/>
         <source>Password</source>
         <translation>Teny miafina</translation>
     </message>
@@ -17,7 +17,7 @@
         <translation type="vanished">Ampidiro ny teny miafinao azafady</translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="352"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="355"/>
         <source>Unlocking failed</source>
         <translation>Misy tsy fihetezana ny fanokafana</translation>
     </message>
