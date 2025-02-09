@@ -14,8 +14,8 @@
     </message>
     <message>
         <location filename="../screenlocker/qml/LockScreen.qml" line="342"/>
-        <source>oops</source>
-        <translation type="unfinished"></translation>
+        <source>Set Non-empty Password</source>
+        <translation>如果密碼為空，請設置一個非空的密碼以確保認證程序正常運行。</translation>
     </message>
     <message>
         <location filename="../screenlocker/qml/LockScreen.qml" line="344"/>

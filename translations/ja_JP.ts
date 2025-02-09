@@ -14,8 +14,8 @@
     </message>
     <message>
         <location filename="../screenlocker/qml/LockScreen.qml" line="342"/>
-        <source>oops</source>
-        <translation type="unfinished"></translation>
+        <source>Set Non-empty Password</source>
+        <translation>パスワードが空である場合は、認証プロセスが正常に動作するように空でないパスワードを設定してください。</translation>
     </message>
     <message>
         <location filename="../screenlocker/qml/LockScreen.qml" line="344"/>

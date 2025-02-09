@@ -14,8 +14,8 @@
     </message>
     <message>
         <location filename="../screenlocker/qml/LockScreen.qml" line="342"/>
-        <source>oops</source>
-        <translation type="unfinished"></translation>
+        <source>Set Non-empty Password</source>
+        <translation>Si le mot de passe est vide, veuillez définir un mot de passe non vide pour garantir que le processus d&apos;authentification fonctionne correctement.</translation>
     </message>
     <message>
         <location filename="../screenlocker/qml/LockScreen.qml" line="344"/>

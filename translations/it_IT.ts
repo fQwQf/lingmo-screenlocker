@@ -14,8 +14,8 @@
     </message>
     <message>
         <location filename="../screenlocker/qml/LockScreen.qml" line="342"/>
-        <source>oops</source>
-        <translation type="unfinished"></translation>
+        <source>Set Non-empty Password</source>
+        <translation>Se la password è vuota, imposta una password non vuota per garantire che il processo di autenticazione funzioni correttamente.</translation>
     </message>
     <message>
         <location filename="../screenlocker/qml/LockScreen.qml" line="344"/>

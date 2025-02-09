@@ -10,7 +10,7 @@
     </message>
     <message>
         <location filename="../screenlocker/qml/LockScreen.qml" line="342"/>
-        <source>oops</source>
+        <source>Set Non-empty Password</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

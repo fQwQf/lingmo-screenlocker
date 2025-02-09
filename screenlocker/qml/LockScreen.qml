@@ -339,7 +339,7 @@ Item {
             notificationResetTimer.start()
             // 根据尝试次数显示不同提示
             if (root.emptyAttempts >= 3) {
-                root.notification = qsTr("oops")
+                root.notification = qsTr("Set Non-empty Password")
             } else {
                 root.notification = qsTr("Please enter your password")
             }

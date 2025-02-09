@@ -19,9 +19,9 @@
         <translation>请输入您的密码</translation>
     </message>
     <message>
-    <location filename="../screenlocker/qml/LockScreen.qml" line="274"/>
-    <source>oops</source>
-    <translation>请输入您的密码.如果密码为空请设置密码</translation>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="274"/>
+        <source>Set Non-empty Password</source>
+        <translation>如果密码为空，请设置一个非空的密码以确保认证程序正常运行。</translation>
 </message>
     <message>
         <location filename="../screenlocker/qml/LockScreen.qml" line="284"/>
