@@ -35,6 +35,8 @@ Item {
 
     property string notification
 
+    property int emptyAttempts: 0 // 新增空密码尝试计数器
+
     LayoutMirroring.enabled: Qt.locale().textDirection === Qt.RightToLeft
     LayoutMirroring.childrenInherit: true
 
@@ -332,6 +334,21 @@ Item {
 
     function tryUnlock() {
         //Well it's possible that the password is empty
+        if (!password.text) {
+            root.emptyAttempts++
+            notificationResetTimer.start()
+            // 根据尝试次数显示不同提示
+            if (root.emptyAttempts >= 3) {
+                root.notification = qsTr("oops")
+            } else {
+                root.notification = qsTr("Please enter your password")
+            }
+            return
+        } else {
+            root.emptyAttempts = 0 // 有效输入时重置计数器
+        }
+
+
         /*if (!password.text) {
             notificationResetTimer.start()
             root.notification = qsTr("Please enter your password")

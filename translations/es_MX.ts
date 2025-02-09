@@ -4,7 +4,7 @@
 <context>
     <name>LockScreen</name>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="234"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="236"/>
         <source>Password</source>
         <translation>Contraseña</translation>
     </message>
@@ -13,11 +13,17 @@
         <translation type="vanished">Desbloquear</translation>
     </message>
     <message>
-        <source>Please enter your password</source>
-        <translation type="vanished">Por favor, introduzca su contraseña</translation>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="342"/>
+        <source>oops</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../screenlocker/qml/LockScreen.qml" line="355"/>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="344"/>
+        <source>Please enter your password</source>
+        <translation>Por favor, introduzca su contraseña</translation>
+    </message>
+    <message>
+        <location filename="../screenlocker/qml/LockScreen.qml" line="372"/>
         <source>Unlocking failed</source>
         <translation>Desbloqueo fallido</translation>
     </message>

@@ -19,6 +19,11 @@
         <translation>请输入您的密码</translation>
     </message>
     <message>
+    <location filename="../screenlocker/qml/LockScreen.qml" line="274"/>
+    <source>oops</source>
+    <translation>请输入您的密码.如果密码为空请设置密码</translation>
+</message>
+    <message>
         <location filename="../screenlocker/qml/LockScreen.qml" line="284"/>
         <source>Unlocking failed</source>
         <translation>解锁失败</translation>
